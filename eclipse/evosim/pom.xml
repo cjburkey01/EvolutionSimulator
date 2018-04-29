@@ -4,7 +4,7 @@
 	<artifactId>evosim</artifactId>
 	<version>0.0.1</version>
 	<name>Evolution Simulator</name>
-	<description>Simulate nature selection with evolving creatures</description>
+	<description>Simulate natural selection with evolving creatures</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<log4j.version>2.11.0</log4j.version>

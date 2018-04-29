@@ -14,7 +14,7 @@ public final class EvoSim extends Application {
 	private static Loop loop;
 	private static World world = new World();
 	private static CameraController cc;
-	private static EvoSimHandler handler;
+	private static EvoSimHandler handler = new EvoSimHandler();
 	
 	public EvoSim() {
 		instance = this;
